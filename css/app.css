@@ -1,0 +1,26 @@
+
+.pageHeader {
+    background-color: #f4f4f4; padding: 10px; color: #000000;}
+.color5 {background-color:#}
+.color2 {background-color:#ff0000}
+.color3 {background-color: #999999}
+.color4 {background-color:#666666}
+.color6 {background-color: #333333}
+.color7 {background-color: #cfa339}
+.color8 {background-color: #55148c}
+.color9 {background-color: #376d6a}
+.color10 {background-color: #000000}
+.color11 {background-color: #008000}
+.color12 {background-color: #ff66cc}
+.color13 {background-color: #7b3f00}
+.color14 {background-color:#FF5733 }
+.color15 {background-color:#33A2FF }
+.color16 {background-color: #5E1769}
+.color17 {background-color: #775F66}
+.color18 {background-color: #93A496}
+.grid-container {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+
+body { color: #ffffff;}
