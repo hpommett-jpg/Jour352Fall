@@ -24,3 +24,18 @@
 }
 
 body { color: #ffffff;}
+
+.pageHeader {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.color2 {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.color3 {
+    background-color: lightpink;
+    padding: 20px;
+}
